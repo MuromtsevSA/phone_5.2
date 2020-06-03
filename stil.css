@@ -1,0 +1,27 @@
+.di{
+    margin: 5px;
+    border: 2px solid red;
+    display: table;
+    background: grey;
+    
+  }  
+  .sel{
+    margin: 5px;
+  }
+   .sot{
+     margin: 5px;
+   }  
+
+  .but{
+    margin: 5px;
+    background: red;
+  }
+  .plus{
+    background: red;
+  }
+  .p{
+    color: red;
+  }
+  .inpu{
+    background: red;
+  }
